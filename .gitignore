@@ -10,6 +10,8 @@
 
 # production
 /build
+/android
+/BluetoothSerial
 
 # misc
 .DS_Store
